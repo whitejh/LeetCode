@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/whitejh/LeetCode/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/whitejh/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+## String
+|  |
+| ------- |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/whitejh/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+## Counting
+|  |
+| ------- |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/whitejh/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 <!---LeetCode Topics End-->
