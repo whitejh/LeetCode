@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/whitejh/LeetCode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/whitejh/LeetCode/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/whitejh/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+## Array
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/whitejh/LeetCode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
